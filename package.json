@@ -1,0 +1,32 @@
+{
+  "name": "@lite-js/visit",
+  "version": "0.0.1",
+  "description": "visualize it!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lite-js/visit.git"
+  },
+  "keywords": [
+    "visualization",
+    "data",
+    "visualization",
+    "vis",
+    "info",
+    "visualization"
+  ],
+  "author": "leungwensen@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lite-js/visit/issues"
+  },
+  "homepage": "https://github.com/lite-js/visit#readme",
+  "dependencies": {
+    "@lite-js/torch": "^0.2.6",
+    "d3": "^4.10.0",
+    "electron": "^1.7.5"
+  }
+}

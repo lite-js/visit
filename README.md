@@ -1,2 +1,3 @@
 # visit
-Visualize it!
+
+Visualize it! Trying to visualize everything.
